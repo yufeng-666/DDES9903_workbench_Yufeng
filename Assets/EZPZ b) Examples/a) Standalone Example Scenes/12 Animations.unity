@@ -437,11 +437,11 @@ MonoBehaviour:
   - {fileID: 1636515510}
   - {fileID: 341395311}
   - {fileID: 1351066471}
-  autoSync: 0
-  indexSynchroniser: {fileID: 0}
   loopCycle: 1
   exclusiveMode: 1
   cascadeMode: 0
+  autoSync: 0
+  indexSynchroniser: {fileID: 0}
   onNextItem:
     m_PersistentCalls:
       m_Calls: []
@@ -466,6 +466,7 @@ MonoBehaviour:
   onOverflow:
     m_PersistentCalls:
       m_Calls: []
+  prevItemIndex: -1
 --- !u!4 &218541350
 Transform:
   m_ObjectHideFlags: 0
