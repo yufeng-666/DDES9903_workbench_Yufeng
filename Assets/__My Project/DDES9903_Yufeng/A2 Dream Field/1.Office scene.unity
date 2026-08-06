@@ -1240,7 +1240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e87a34c1c584beb4ab2e186c944f85ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneTransition
-  fieldSceneName: 2.FieldScene
+  fieldSceneName: 2.DreamFieldScene
 --- !u!65 &311499967
 BoxCollider:
   m_ObjectHideFlags: 0
